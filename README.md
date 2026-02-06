@@ -1,8 +1,6 @@
 
   # Intelligent Fraud Prevention Dashboard
 
-  This is a code bundle for Intelligent Fraud Prevention Dashboard. The original project is available at https://www.figma.com/design/Z9CHfdINh2Fq6PC0LPyc4x/Intelligent-Fraud-Prevention-Dashboard.
-
   ## Running the code
 
   Run `npm i` to install the dependencies.
